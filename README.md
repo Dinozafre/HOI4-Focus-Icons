@@ -1,1 +1,1 @@
-Public for using focus icons asstets for Hearts of iron 4 gamme
+Public for using focus icons assets for Hearts of iron 4 game
